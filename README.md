@@ -1,5 +1,10 @@
 # 🏗 Scaffold-ETH 2
+## 🔗 Live Links
 
+- 🌐 **Live App:** [challenge-1-decentralized-staking](https://challenge-1-decentralized-staking-inky-eta.vercel.app/)
+- 📜 **Contract on Sepolia Etherscan:** [0x1b92f4057A4c889acbd80c7AF79340b41FfcC55e](https://sepolia.etherscan.io/address/0x1b92f4057A4c889acbd80c7AF79340b41FfcC55e)
+- 🧑‍🚀 **SpeedrunEthereum Profile:** [0x58ad103D0C0E69250CaC89Ddf0BDaD396914C411](https://speedrunethereum.com/builders/0x58ad103D0C0E69250CaC89Ddf0BDaD396914C411)
+---
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
   <a href="https://scaffoldeth.io">Website</a>
